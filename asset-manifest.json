@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amitvish/Garage-App-Frontend/static/css/main.5a6f32d2.chunk.css",
+    "main.js": "/amitvish/Garage-App-Frontend/static/js/main.54b9bcf0.chunk.js",
+    "main.js.map": "/amitvish/Garage-App-Frontend/static/js/main.54b9bcf0.chunk.js.map",
+    "runtime-main.js": "/amitvish/Garage-App-Frontend/static/js/runtime-main.534f1368.js",
+    "runtime-main.js.map": "/amitvish/Garage-App-Frontend/static/js/runtime-main.534f1368.js.map",
+    "static/css/2.a49aa9f3.chunk.css": "/amitvish/Garage-App-Frontend/static/css/2.a49aa9f3.chunk.css",
+    "static/js/2.42a64114.chunk.js": "/amitvish/Garage-App-Frontend/static/js/2.42a64114.chunk.js",
+    "static/js/2.42a64114.chunk.js.map": "/amitvish/Garage-App-Frontend/static/js/2.42a64114.chunk.js.map",
+    "index.html": "/amitvish/Garage-App-Frontend/index.html",
+    "precache-manifest.d67c05f843e61b0b98f3ed442e642ad8.js": "/amitvish/Garage-App-Frontend/precache-manifest.d67c05f843e61b0b98f3ed442e642ad8.js",
+    "service-worker.js": "/amitvish/Garage-App-Frontend/service-worker.js",
+    "static/css/2.a49aa9f3.chunk.css.map": "/amitvish/Garage-App-Frontend/static/css/2.a49aa9f3.chunk.css.map",
+    "static/css/main.5a6f32d2.chunk.css.map": "/amitvish/Garage-App-Frontend/static/css/main.5a6f32d2.chunk.css.map",
+    "static/js/2.42a64114.chunk.js.LICENSE.txt": "/amitvish/Garage-App-Frontend/static/js/2.42a64114.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.534f1368.js",
+    "static/css/2.a49aa9f3.chunk.css",
+    "static/js/2.42a64114.chunk.js",
+    "static/css/main.5a6f32d2.chunk.css",
+    "static/js/main.54b9bcf0.chunk.js"
+  ]
+}
